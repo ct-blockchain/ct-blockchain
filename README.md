@@ -13,7 +13,7 @@ The Blockchain Technical Committee (CT-Blockchain) is a consulting technical com
 
 The CT-Blockchain is therefore a reflection space for researchers and professionals in the subject, prepared in strategical manner to evolve the technology in Brazil within its various scopes.
 
-## Visite o site (pt-BR / Visit the website
+## Visite o site (pt-BR) / Visit the website (en)
 
 https://wiki.rnp.br/display/blockchain/CT-Blockchain
 
