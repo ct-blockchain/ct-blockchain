@@ -1,6 +1,8 @@
 # ct-blockchain
 Comitê Técnico em Blockchain - Rede Nacional de Ensino e Pesquisa (RNP)
 
+- Veja: [https://www.rnp.br/inovacao/comites-tecnicos](https://www.rnp.br/inovacao/comites-tecnicos)
+
 ## Descrição na Wiki Oficial (pt-BR)
 
 O Comitê Técnico Blockchain (CT-Blockchain) é um comitê técnico de caráter consultivo criado pela Rede Nacional de Ensino e Pesquisa - RNP em 2020 para fomentar o ecossistema e acompanhar os principais avanços técnico-científicos em Blockchain e propor uma visão de futuro no tema à RNP.
